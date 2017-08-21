@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view-controller-mapping><mapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="java:org.exolab.castor.mapping.MapItem"><key xsi:type="java:java.lang.String">view.GUI</key><value xsi:type="java:java.lang.String">controller.MyController</value></mapping></view-controller-mapping>
