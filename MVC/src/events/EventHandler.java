@@ -14,9 +14,9 @@ import fwk.XMLMappingLoader;
  */
 public class EventHandler implements ActionListener {
 	// object of ControllerFactory for creating controller object
-	ControllerFactory factory;
+	private ControllerFactory factory;
 	// loads mapping of pair view - controller from xml file
-	XMLMappingLoader loader = XMLMappingLoader.getLoader();
+	private XMLMappingLoader loader = XMLMappingLoader.getLoader();
 
 	@Override
 	public void actionPerformed(ActionEvent e) {
